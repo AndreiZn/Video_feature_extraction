@@ -10,7 +10,7 @@
 | Posture | Person's posture -> coordinates of joints |
 | Costume | Characters' costumes, their attributes etc. |
 | Video_composition | Type of video composition (landscape, urban, rural, portrait) |
-| Whether_conditions | Type of whether (good/bad + time of the season) |
+| Weather_conditions | Type of weather (good/bad + time of the season) |
 | Main_object | The object in the center of attention (a car, a person, a building, etc.) -> string (type of object) + coordinates (bounding box)|
 | Main_object_movement | Where the main object moves, its speed, direction, whether the direction is consistent over the frames and so on |
 | Action_type | Type of action (fight, race, dialog, etc)
