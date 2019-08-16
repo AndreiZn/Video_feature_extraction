@@ -9,9 +9,9 @@ Remarks:
 2) it's possible to output the video, where the person's face will be identified with a bounding box
 
 
-
-Video features:
-| Feature  | Details |
-| ------------- | ------------- |
-| s  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Feature | Details |
+| --- | --- |
+| N_faces | Number of faces in video |
+| Face_size | Size of the face relative to the frame size |
+| Face_emotion | Facial expressions (anger, satisfaction, happiness, etc.) |
+| Celebrity_face | Name of celebrity detected in a video |
