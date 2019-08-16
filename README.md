@@ -7,7 +7,8 @@
 | Face_emotion | Facial expressions (anger, satisfaction, happiness, etc.) |
 | Celebrity_face | Name of a celebrity detected in a video |
 | Face_attractiveness | Appeal of person's mimic, its naturalness |
-| Posture | Person's posture -> coordinates of joints |
+| Posture | Person's posture -> coordinates of joints + naturalness of posture |
+| Person_movement| How a person moves in a snippet - sits down/stands up/falls on the ground/jumps to the hill |
 | Costume | Characters' costumes, their attributes etc. |
 | Video_composition | Type of video composition (landscape, urban, rural, portrait) |
 | Weather_conditions | Type of weather (good/bad + time of the season) |
