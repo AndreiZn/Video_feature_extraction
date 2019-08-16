@@ -11,9 +11,9 @@
 | Person_movement| How a person moves in a snippet - sits down/stands up/falls on the ground/jumps to the hill |
 | Costume | Characters' costumes, their attributes etc. |
 | Video_composition | Type of video composition (landscape, urban, rural, portrait) |
-| Weather_conditions | Type of weather (good/bad + time of the season) |
+| Weather_conditions | Type of weather (good/bad + time of the season + light conditions) |
 | Main_object | The object in the center of attention (a car, a person, a building, etc.) -> string (type of object) + coordinates (bounding box)|
-| Main_object_movement | Where the main object moves, its speed, direction, whether the direction is consistent over the frames and so on |
+| Main_object_movement | Where the main object moves to, its speed, direction, whether the direction is consistent over the frames and so on |
 | Action_type | Type of action (fight, race, dialog, etc)
 | Brand_logo | A logo of some world-famous brand (Coca-cola, BMW, etc.) -> string (brand name) + coordinates (bounding box)| 
 
