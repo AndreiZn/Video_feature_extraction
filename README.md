@@ -1,7 +1,7 @@
 # Video_feature_extraction
 
 function is_person_in_video(video_path, image_path): 
-- takes as an input path to a video (local file on disk) and path to an image (a portrait of a celebrity, for example)
+- takes as an input: path to a video (local file on disk) and path to an image (a portrait of a celebrity, for example)
 - outputs whether the person is in this video
 
 Remarks: 
